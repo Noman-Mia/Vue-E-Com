@@ -2,14 +2,14 @@
 import NavBaCom from'./components/NavBaCom.vue'
 import HeroCom from './components/HeroCom.vue';
 import FooterCom from './components/FooterCom.vue';
+import ProductCom from './components/ProductCom.vue';
 </script>
 
 <template>
-  <div class="">
     <NavBaCom/>
-  </div>
-<HeroCom/>
-  <FooterCom/>
+    <HeroCom/>
+    <ProductCom/>
+    <FooterCom/>
 </template>
 
 <style scoped>
