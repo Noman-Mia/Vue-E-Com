@@ -1,7 +1,7 @@
 <template>
-    <nav class=" p-4 bg-blue-50 ">
+    <nav class=" p-8">
       <div class="max-w-7xl mx-auto flex items-center justify-between ">
-        <div class="text-black font-bold text-xl">
+        <div class="text-black font-bold text-4xl">
           <span class="text-blue-500">E-com</span>
         </div>
         <div class="md:flex space-x-4">

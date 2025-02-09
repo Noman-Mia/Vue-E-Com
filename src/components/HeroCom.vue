@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-gray-900 text-white py-20">
+    <section class="bg-gray-900 text-white py-20 mt-5">
       <div class="max-w-7xl mx-auto px-4 text-center">
         <h1 class="text-4xl md:text-6xl font-bold">
           Build Your Future with <span class="text-blue-500">Us</span>

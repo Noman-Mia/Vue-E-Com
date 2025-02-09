@@ -25,10 +25,18 @@
   import { ref } from 'vue';
   
   const products = ref([
-    { id: 1, name: "Wireless Headphones", description: "High-quality sound and noise cancellation.", price: 99, image: "https://via.placeholder.com/150" },
-    { id: 2, name: "Smart Watch", description: "Track your fitness and stay connected.", price: 149, image: "https://via.placeholder.com/150" },
-    { id: 3, name: "Gaming Mouse", description: "Precision and speed for pro gaming.", price: 59, image: "https://via.placeholder.com/150" },
-    { id: 4, name: "Mechanical Keyboard", description: "Tactile feedback and RGB lighting.", price: 129, image: "https://via.placeholder.com/150" },
+    { id: 1, name: "Wireless Headphones", description: "High-quality sound and noise cancellation.", price: 99, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 2, name: "Smart Watch", description: "Track your fitness and stay connected.", price: 149, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 3, name: "Gaming Mouse", description: "Precision and speed for pro gaming.", price: 59, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 4, name: "Mechanical Keyboard", description: "Tactile feedback and RGB lighting.", price: 129, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 1, name: "Wireless Headphones", description: "High-quality sound and noise cancellation.", price: 99, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 2, name: "Smart Watch", description: "Track your fitness and stay connected.", price: 149, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 3, name: "Gaming Mouse", description: "Precision and speed for pro gaming.", price: 59, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 4, name: "Mechanical Keyboard", description: "Tactile feedback and RGB lighting.", price: 129, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 1, name: "Wireless Headphones", description: "High-quality sound and noise cancellation.", price: 99, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 2, name: "Smart Watch", description: "Track your fitness and stay connected.", price: 149, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 3, name: "Gaming Mouse", description: "Precision and speed for pro gaming.", price: 59, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
+    { id: 4, name: "Mechanical Keyboard", description: "Tactile feedback and RGB lighting.", price: 129, image: "https://i.ibb.co.com/Qv2nRdcg/download.jpg" },
   ]);
   </script>
   
