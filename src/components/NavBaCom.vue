@@ -1,19 +1,18 @@
 <template>
-    <nav class=" p-8">
-      <div class="max-w-7xl mx-auto flex items-center justify-between ">
-        <div class="text-black font-bold text-4xl">
-          <span class="text-blue-500">E-com</span>
-        </div>
-        <div class="md:flex space-x-8">
-          <router-link to="/" class="text-black ">Home</router-link>
-          <router-link to="/about" class="text-black ">About</router-link>
-          <router-link to="/services" class="text-black ">Product</router-link>
-          <router-link to="/contact" class="text-black ">Contact</router-link>
-          <router-link to="/contact" class="text-black ">Add to Cart</router-link>
-        </div>
-      </div>
-    </nav>
-  </template>
+   <nav class="flex justify-between px-8 py-6 items-center  shadow-blue-100">
+    <div>
+         <div>
+           <p class="text-5xl from-neutral-600"> E-com</p>
+         </div>
+    </div>
+    <div class="space-x-14 items-center pt-2">
+       <a href="">Home</a>
+       <a href="/ProductCom.vue">About</a>
+       <a href="">Contact</a>
+       <a href="">Add To Cart</a>
+    </div>
+   </nav>
+  </template> 
   
   <script>
   
