@@ -4,11 +4,12 @@
         <div class="text-black font-bold text-4xl">
           <span class="text-blue-500">E-com</span>
         </div>
-        <div class="md:flex space-x-4">
-          <router-link to="/" class="text-black hover:text-gray-300">Home</router-link>
-          <router-link to="/about" class="text-black hover:text-gray-300">About</router-link>
-          <router-link to="/services" class="text-black hover:text-gray-300">Product</router-link>
-          <router-link to="/contact" class="text-black hover:text-gray-300">Contact</router-link>
+        <div class="md:flex space-x-8">
+          <router-link to="/" class="text-black ">Home</router-link>
+          <router-link to="/about" class="text-black ">About</router-link>
+          <router-link to="/services" class="text-black ">Product</router-link>
+          <router-link to="/contact" class="text-black ">Contact</router-link>
+          <router-link to="/contact" class="text-black ">Add to Cart</router-link>
         </div>
       </div>
     </nav>

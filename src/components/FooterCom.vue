@@ -5,7 +5,7 @@
           
           <!-- Company Info -->
           <div>
-            <h2 class="text-2xl font-bold">MyCompany</h2>
+            <h2 class="text-2xl font-bold">E-com</h2>
             <p class="text-gray-400 mt-2">Building the future, one innovation at a time.</p>
             <p class="text-gray-400 mt-2">Email: support@mycompany.com</p>
             <p class="text-gray-400">Phone: +123 456 7890</p>
@@ -56,7 +56,7 @@
   
         </div>
         <div class="border-t border-gray-700 mt-8 pt-4 text-center text-gray-500">
-          &copy; {{ new Date().getFullYear() }} MyCompany. All rights reserved.
+          &copy; {{ new Date().getFullYear() }} E-com. All rights reserved.
         </div>
       </div>
     </footer>
